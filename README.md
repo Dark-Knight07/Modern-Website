@@ -1,2 +1,2 @@
 # Modern-Website
-First web site of mine developed with HTML and CSS prepared codes . It is so simple ;-)
+Its My First Website Which is Developed with the Help of HTML and CSS
